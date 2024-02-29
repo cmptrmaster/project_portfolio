@@ -19,7 +19,14 @@ h1 {
     font-size: 2rem;
 }
 /* Nav */
-
+nav {
+    display: block;
+    border: 1rem;
+    font-weight: bold;
+}
+ul {
+    list-style-type: none;
+}
 /* Section */
 #project-list {
     display: grid;
