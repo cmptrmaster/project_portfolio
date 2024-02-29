@@ -1,13 +1,13 @@
 /* Universal Styles */
 * {
     font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 /* Header */
 header {
     background-color: lightgray;
     color: darkblue;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
     border-radius: 0.5rem;
     padding: .25rem;
     margin-bottom: .5rem;
@@ -43,7 +43,7 @@ h1 {
     grid-column-start: 2;
     grid-column-end: 3;
 }
-#project-title {
+#project-title #theEarlyYears #upToNow{
     font-size: 1.25rem;
     font-weight: bold;
 }
