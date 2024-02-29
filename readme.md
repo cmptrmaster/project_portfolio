@@ -4,7 +4,7 @@
 
 ### Description
 
-This project is to provide a central repo for my projects.
+This project is to provide a central page for my projects as I work through my Full Stack Developer program.
 
 Presently, the project list is static HTML code using CSS for styling, and JavaScript for interactivity.
 
